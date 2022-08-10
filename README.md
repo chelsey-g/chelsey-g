@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/chelseygowac" target="blank"><img src="https://img.shields.io/twitter/follow/chelseygowac?logo=twitter&style=for-the-badge" alt="chelseygowac" /></a> </p>
 
-- 🔭 I’m currently working on [spotify clone](https://github.com/chelsey-g/spotify-clone)
+- 🔭 i’m currently working on [spotify clone](https://github.com/chelsey-g/spotify-clone)
 
 - 🌱 I’m currently learning **react, javascript, typescript**
 
