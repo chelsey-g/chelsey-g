@@ -3,13 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chelsey-g&label=Profile%20views&color=0e75b6&style=flat" alt="chelsey-g" /> </p>
 
-- 🔭 i’m currently working on [spotify clone](https://github.com/chelsey-g/spotify-clone)
+- 🔭 i’m currently working on [a spotify clone](https://github.com/chelsey-g/spotify-clone)
 
-- 🌱 I’m currently learning **react, javascript, typescript**
+- :crescent_moon: i’m currently learning **react, javascript, typescript**
 
-- 👨‍💻 All of my projects are available at [www.chelseygowac.com](www.chelseygowac.com)
+- :ringed_planet: all of my projects are available at [www.chelseygowac.com](www.chelseygowac.com)
 
-- 📫 How to reach me **chelgowac@gmail.com**
+- 📫 contact me: **chelgowac@gmail.com**
 
 - ⚡ Fun fact **i am an exceptional pool player!**
 
