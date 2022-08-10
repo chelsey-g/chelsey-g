@@ -1,7 +1,7 @@
 <h1 align="center">hi, I'm chelsey!:v:</h1>
-<h3 align="center">an aspiring frontend webdeveloper from connecticut</h3>
+<h3 align="center">an aspiring frontend web developer from connecticut</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chelsey-g&label=Profile%20views&color=0e75b6&style=flat" alt="chelsey-g" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chelsey-g&label=Profile%20views&color=0e75b6&style=flat" alt="chelsey-g" /> </p>
 
 - 🔭 i’m currently working on [spotify clone](https://github.com/chelsey-g/spotify-clone)
 
