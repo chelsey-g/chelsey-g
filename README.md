@@ -3,15 +3,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chelsey-g&label=Profile%20views&color=0e75b6&style=flat" alt="chelsey-g" /> </p>
 
-- 🔭 i’m currently working on [a spotify clone](https://github.com/chelsey-g/spotify-clone)
+🔭  i’m currently working on [a spotify clone](https://github.com/chelsey-g/spotify-clone)
 
-- :crescent_moon: i’m currently learning **react, javascript, typescript**
+ :crescent_moon:  i’m currently learning **react, javascript, typescript**
 
-- :ringed_planet: all of my projects are available at [www.chelseygowac.com](www.chelseygowac.com)
+:ringed_planet:  all of my projects are available at [www.chelseygowac.com](www.chelseygowac.com)
 
-- 📫 contact me: **chelgowac@gmail.com**
+📫 contact me:  **chelgowac@gmail.com**
 
-- ⚡ Fun fact **i am an exceptional pool player!**
+:sunny: fun fact:  **i am an exceptional pool player!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,6 +22,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chelsey-g&show_icons=true&locale=en&layout=compact" alt="chelsey-g" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chelsey-g&" alt="chelsey-g" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chelsey-g&show_icons=true&locale=en&layout=compact" alt="chelsey-g" /></p>
