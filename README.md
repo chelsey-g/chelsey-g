@@ -10,7 +10,6 @@
 <br>
  :crescent_moon:  i’m currently learning **react, javascript, typescript**
 
-:ringed_planet:  all of my projects are available at <a href="http://www.chelseygowac.com">chelseygowac.com</a>
 
 📫 contact me:  **chelgowac@gmail.com**
 
