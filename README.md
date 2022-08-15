@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chelsey-g&label=Profile%20views&color=0e75b6&style=flat" alt="chelsey-g" /> </p>
 
-🔭  i’m currently working on [a spotify clone](https://github.com/chelsey-g/spotify-clone)
+🔭  i’m currently working on <a href="https://darling-malasada-2c2fd7.netlify.app/">a spotify clone</a> // <a href="https://github.com/chelsey-g/spotify-clone">open source</a>
 
 :mountain: <a href="https://heartfelt-puppy-f35711.netlify.app/?path=/story/example-mainbody--primary">storybook components</a>
 <br>
